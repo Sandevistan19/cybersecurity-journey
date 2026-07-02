@@ -8,6 +8,7 @@ This repository is my personal documentation of everything I’m learning in:
 - Linux & networking
 - TryHackMe labs
 - Security tools and techniques
+  Lessons learned from real mistakes — because judgment matters as much as tools
 
 ---
 
