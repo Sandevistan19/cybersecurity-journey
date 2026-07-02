@@ -61,6 +61,10 @@ To go from beginner → skilled ethical hacker by building real understanding, n
 
 ---
 
-## 🚀 Progress Log
-Week 1: Setup + Basics started
 
+## 🚀 Progress Log
+- Week 1: Setup + Basics started
+- Week 2: Ran first Nmap scans, learned scan-target authorization the hard way — documented in `lessons-learned/`
+- Week 3:
+- Week 4:
+- Week 5:
