@@ -14,9 +14,9 @@ What this room is teaching / what you're trying to achieve.
 ## Process
 Walk through what you actually did, in your own words — not a copy of the room's instructions. Explain *why* you ran each command, not just that you ran it.
 
-\`\`\`bash
+```bash
 nmap -sV 10.10.x.x
-\`\`\`
+```
 
 This showed [what it showed], which told me [what you concluded from it].
 
